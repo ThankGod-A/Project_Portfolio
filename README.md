@@ -7,3 +7,7 @@ Welcome to my Data Science and Analytics Porfolio
 #### Name: ThankGod Agada
 
 [Linkedin](https://www.linkedin.com/in/thankgod-agada-284b6b103/)
+
+#### Project 1: Loan_Score_Prediction
+
+Goal
