@@ -6,4 +6,4 @@ Welcome to my Data Science and Analytics Porfolio
 
 #### Name: ThankGod Agada
 
-[Linkedin](https://linkedin.com/in/thankgodagada-284b6b103)
+[Linkedin](https://www.linkedin.com/in/thankgod-agada-284b6b103/)
